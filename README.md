@@ -1,6 +1,6 @@
 # Chess-Analysis
 
-Top 100 players (top100players.csv) country metadata: 
+Top 100 players (top_100_players.csv) country metadata: 
 1) Country_grp2: Country or region
 2) Rating Date: Date of Ratings
 3) n: number of top 100 players from country or region
